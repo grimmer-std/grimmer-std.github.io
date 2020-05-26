@@ -1,0 +1,9 @@
+_cache
+.idea/
+admin.md
+_site
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+Gemfile.lock
+_drafts

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \#0 Wstęp do PicoCTF2019
+title: "#0 Wstęp do PicoCTF2019"
 date: 2020-06-25
 tags: picoCTF writeup
 description: Czas zacząć przygodę w krainie CTF!

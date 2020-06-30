@@ -16,12 +16,12 @@ Czymś, co wyróżnia PicoCTF jest fakt, że oprócz listy wyzwań otrzymujemy g
 
 Ten oraz kolejne wpisy pisane są **celowo** z perspektywy "świeżaka" oraz będą krok po kroku opisywać ciąg myślowy od pierwszego spotkania z danym zagadnieniem do znalezienia flagi. Celem jest stworzenie samouczka pisanego jak najprostrzym językiem "od początkującego dla początkującego".
 
-![img]({{ 'assets/images/PicoCTF2019_general/ekran_startowy.png' | relative_url }}){: .center-image }*Ekran startowy PicoCTF wraz z ciekawą "reklamą"*
+![img]({{ 'assets/images/PicoCTF2019_wstep/ekran_startowy.png' | relative_url }}){: .center-image }*Ekran startowy PicoCTF wraz z ciekawą "reklamą"*
 
 # Hej przygodo! Czas na pierwsze zadanie - Lets Warm Up
 
 Po obudzeniu się w pustej fabryce oraz oswojeniu się ze sterowaniem trafiamy na terminal wyświetlający
-![img]({{ 'assets/images/PicoCTF2019_general/lets_warm_up1.png' | relative_url }}){: .center-image }*taki ekran*
+![img]({{ 'assets/images/PicoCTF2019_wstep/lets_warm_up1.png' | relative_url }}){: .center-image }*taki ekran*
 
 <details>
   <summary>Podpowiedzi</summary>
@@ -46,11 +46,11 @@ Uzbrojeni w nową dawkę wiedzy możemy skorzystać z tabel i zdobyć naszą pie
   picoCTF{p}
 </details>
 
-![img]({{ 'assets/images/PicoCTF2019_general/lets_warm_up_solution.png' | relative_url }}){: .center-image }*Mamy pierwszą flagę :D. 50 punktów ~~dla Gryffindoru~~ wpadło na nasze konto*
+![img]({{ 'assets/images/PicoCTF2019_wstep/lets_warm_up_solution.png' | relative_url }}){: .center-image }*Mamy pierwszą flagę :D. 50 punktów ~~dla Gryffindoru~~ wpadło na nasze konto*
 
 # Warmed Up
 
-![img]({{ 'assets/images/PicoCTF2019_general/warmed_up.png' | relative_url }}){: .center-image }*hmm, wygląda znajomo*
+![img]({{ 'assets/images/PicoCTF2019_wstep/warmed_up.png' | relative_url }}){: .center-image }*hmm, wygląda znajomo*
 
 <details>
   <summary>Podpowiedzi</summary>

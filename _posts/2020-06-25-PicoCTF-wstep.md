@@ -14,7 +14,7 @@ Hej Czytelniku. Witam Cię w pierwszym wpisie na temat PicoCTF. Nie przedłużaj
 [PicoCTF](https://picoctf.com/) to dostępny przez cały rok CTF skierowany do początkujących. Według mnie jest to najlepsze miejsce do rozpoczęcia przygody z zawodami Capture the Flag. Zawody te w dużym skrócie polegają na znalezieniu ukrytej flagi (która jest ciągiem znaków) poprzez rozwiązanie danego zadania. Rozwiązanie może polegać na złamaniu szyfru, zerknięciu do kodu czy wykorzystaniu znanej podatności. Oczywiście wszystko jest zależne od tego dla kogo (a dokładniej - dla jak bardzo doświadczonych osób) przeznaczone są dane zawody.
 Czymś, co wyróżnia PicoCTF jest fakt, że oprócz listy wyzwań otrzymujemy grę opartą na silniku Unity oraz proste tło fabularne. Dodatkowo warto zaznaczyć, że każdy CTF ma swój **format flagi**. Dla PicoCTF jest to **picoCTF{treść_danej_flagi}**.
 
-Ten oraz kolejne wpisy pisane są **celowo** z perspektywy "świeżaka" oraz będą krok po kroku opisywać ciąg myślowy od pierwszego spotkania z danym zagadnieniem do znalezienia flagi. Celem jest stworzenie samouczka pisanego jak najprostrzym językiem "od początkującego dla początkującego".
+Ten oraz kolejne wpisy pisane są **celowo** z perspektywy "świeżaka" oraz będą krok po kroku opisywać ciąg myślowy od pierwszego spotkania z danym zagadnieniem do znalezienia flagi. Celem jest stworzenie samouczka pisanego prostym językiem "od początkującego dla początkującego".
 
 ![img]({{ 'assets/images/PicoCTF2019_wstep/ekran_startowy.png' | relative_url }}){: .center-image }*Ekran startowy PicoCTF wraz z ciekawą "reklamą"*
 

@@ -9,7 +9,7 @@ toc: true
 
 Hej Czytelniku. Witam Cię w pierwszym wpisie na temat PicoCTF. Nie przedłużając...
 
-# Czym jest picoCTF oraz dla kogo skierowana jest ta seria wpisów?
+## Czym jest picoCTF oraz dla kogo skierowana jest ta seria wpisów?
 
 [PicoCTF](https://picoctf.com/) to dostępny przez cały rok CTF skierowany do początkujących. Według mnie jest to najlepsze miejsce do rozpoczęcia przygody z zawodami Capture the Flag. Zawody te w dużym skrócie polegają na znalezieniu ukrytej flagi (która jest ciągiem znaków) poprzez rozwiązanie danego zadania. Rozwiązanie może polegać na złamaniu szyfru, zerknięciu do kodu czy wykorzystaniu znanej podatności. Oczywiście wszystko jest zależne od tego dla kogo (a dokładniej - dla jak bardzo doświadczonych osób) przeznaczone są dane zawody.
 Czymś, co wyróżnia PicoCTF jest fakt, że oprócz listy wyzwań otrzymujemy grę opartą na silniku Unity oraz proste tło fabularne. Dodatkowo warto zaznaczyć, że każdy CTF ma swój **format flagi**. Dla PicoCTF jest to **picoCTF{treść_danej_flagi}**.
@@ -18,7 +18,7 @@ Ten oraz kolejne wpisy pisane są **celowo** z perspektywy "świeżaka" oraz bę
 
 ![img]({{ 'assets/images/PicoCTF2019_wstep/ekran_startowy.png' | relative_url }}){: .center-image }*Ekran startowy PicoCTF wraz z ciekawą "reklamą"*
 
-# Hej przygodo! Czas na pierwsze zadanie - Lets Warm Up
+## Hej przygodo! Czas na pierwsze zadanie - Lets Warm Up
 
 Po obudzeniu się w pustej fabryce oraz oswojeniu się ze sterowaniem trafiamy na terminal wyświetlający
 ![img]({{ 'assets/images/PicoCTF2019_wstep/lets_warm_up1.png' | relative_url }}){: .center-image }*taki ekran*
@@ -32,7 +32,7 @@ Po obudzeniu się w pustej fabryce oraz oswojeniu się ze sterowaniem trafiamy n
 
 Ok, co my tutaj mamy. Jakieś dziwne "0x70" w zapisie heksadecymalnym cokolwiek to znaczy oraz coś o ASCII.
 
-## Czym jest zapis heksadecymalny oraz ASCII?
+### Czym jest zapis heksadecymalny oraz ASCII?
 
 Szybkie zapytanie do Google mówi nam, że zapis ten nazywany jest również zapisem szesnastkowym tzn. że zamiast znanej nam podstawy dziesiętnej (0123456789) korzysta z 16 znaków (0123456789ABCDF). Oznacza to, że np. 0xA w zapisie szesnastkowym to 15 w dziesiętnym. A skąd prefiks "0x"? Cóż, kiedyś się tak przyjęło w języku programowania C i już zostało.
 
@@ -48,7 +48,7 @@ Uzbrojeni w nową dawkę wiedzy możemy skorzystać z tabel i zdobyć naszą pie
 
 ![img]({{ 'assets/images/PicoCTF2019_wstep/lets_warm_up_solution.png' | relative_url }}){: .center-image }*Mamy pierwszą flagę :D. 50 punktów ~~dla Gryffindoru~~ wpadło na nasze konto*
 
-# Warmed Up
+## Warmed Up
 
 ![img]({{ 'assets/images/PicoCTF2019_wstep/warmed_up.png' | relative_url }}){: .center-image }*hmm, wygląda znajomo*
 

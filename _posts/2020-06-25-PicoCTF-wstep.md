@@ -42,8 +42,9 @@ Uzbrojeni w nową dawkę wiedzy możemy skorzystać z tabel i zdobyć naszą pie
 
 <details>
   <summary>Flaga</summary>
-  
-  picoCTF{p}
+  {% highlight bash %}
+picoCTF{p}
+  {% endhighlight %}
 </details>
 
 ![img]({{ 'assets/images/PicoCTF2019_wstep/lets_warm_up_solution.png' | relative_url }}){: .center-image }*Mamy pierwszą flagę :D. 50 punktów ~~dla Gryffindoru~~ wpadło na nasze konto*
@@ -62,8 +63,9 @@ Posiadając wiedzę zdobytą podczas rozwiązywania poprzedniego zadania możemy
 
 <details>
   <summary>Flaga</summary>
-  
-  0x3D = 3x16 + 13 = 61. Nie zapominając o formacie flagi, rozwiązanie to picoCTF{61}
+  {% highlight bash %}
+0x3D = 3x16 + 13 = 61. Nie zapominając o formacie flagi, rozwiązanie to picoCTF{61}
+  {% endhighlight %}
 </details>
 
 W nagrodę otrzymujemy fragment historii, dostęp do minigry (która jest oparta na realnych komendach) oraz, co najważniejsze - drzwi do pozostałych lokacji zostają otwarte.

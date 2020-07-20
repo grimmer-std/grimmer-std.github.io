@@ -459,3 +459,5 @@ Jest to wiadomość zapisana kodem Morse'a.
 
   Odszyfrowana wiadomość: P I L L A R 2 4 1 3
 </details>
+
+Uff, to by było na tyle jeśli chodzi o kategorię ogólną. Następna w kolejce jest eksploitacja plików binarnych (i nie tylko!)
